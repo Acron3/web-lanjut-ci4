@@ -1,5 +1,5 @@
 <div class="container mt-3">
-    <h1 class="text-center">Selamat Datang di Praktikum Web Lanjut</h1>
+    <div class="text-center">
+        <h1>Selamat Datang di Praktikum Web Lanjut</h1>
+    </div>
 </div>
-</body>
-</html>
